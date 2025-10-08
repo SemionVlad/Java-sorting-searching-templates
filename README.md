@@ -1,7 +1,12 @@
 # Java Sorting & Searching Templates (Copy‑Paste)
-
-Thin, **generic templates** for classic sorting & searching on `int[]`.  
-Paste into your project and tweak quickly — no package, minimal ceremony, static APIs.
+<!-- Tech & meta badges (static; no CI required) -->
+![Language: Java](https://img.shields.io/badge/Language-Java-red?logo=java)
+![Domain: Algorithms](https://img.shields.io/badge/Domain-Algorithms-0aa)
+![Focus: Sorting](https://img.shields.io/badge/Focus-Sorting-4c1)
+![Focus: Searching](https://img.shields.io/badge/Focus-Searching-795548)
+![Arrays: int[]](https://img.shields.io/badge/Arrays-int%5B%5D-999)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+> Minimal, static Java templates for classic sorting/searching on int[]: binary search + lower/upper bound, bubble/insertion/merge/heap/quick (3-way), counting, radix (LSD).
 
 ## Files
 - `BinarySearch.java` – binary search + lower/upper bound.
